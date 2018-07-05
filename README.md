@@ -22,8 +22,11 @@ Curated resources for tech people to incorporate equitable practices throughout 
 
 # More Resources
 Open PM on Github
+
 Harvard Business School - PM 101
+
 Eisenmann’s PM Resources
+
 Software Product Management
 
 # Books 
@@ -32,7 +35,9 @@ Algorithms of Oppression
 
 # People to Follow
 Safiya Noble
+
 Nasma Ahmed
+
 Vivianne Castillo 
 
 
