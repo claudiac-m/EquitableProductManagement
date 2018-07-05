@@ -4,6 +4,10 @@ Curated resources for tech people to incorporate equitable practices throughout 
 # What does equity mean?
 
 # Why is this important?
+<a href="https://medium.com/black-perspectives-in-tech/are-we-missing-the-mark-on-diversity-and-inclusion-in-tech-e52a7ea09fd8"> Are We Missing the Mark on Diversity and Inclusion in Tech?: A Multi-Part Series Highlighting Black Experiences </a> - Angie Coleman 
+
+
+
 
 # How has technology been misused?
 
@@ -19,29 +23,48 @@ Curated resources for tech people to incorporate equitable practices throughout 
 
 # Measuring Success
 
+# VCs doing good
+Backstage Capital 
 
-# More Resources
-Open PM on Github
+Kapors
 
-Harvard Business School - PM 101
 
-Eisenmann’s PM Resources
 
-Software Product Management
+# Tools 
+<a href="https://www.artefactgroup.com/the-tarot-cards-of-tech/"> Tarot Cards of Tech </a> - Aretefact Group 
+
+<a href="http://www.perspective.cards/"> Perspective Cards </a> - Benjamin Earl Evans 
+
+
 
 # Books 
 Algorithms of Oppression
 
+<a href="https://nyupress.org/books/9781479862962/"> Whose Global Village </a> - Ramesh Srinivasan 
 
 # People to Follow
+Kim Crayton 
+
 Safiya Noble
 
 Nasma Ahmed
 
 Vivianne Castillo 
 
+<a href="https://twitter.com/ArlanWasHere"> Arlan Hamilton </a> 
+
+<a href="https://twitter.com/benjamineevans/"> Benjamin Earl Evans </a> 
+
+<a href="https://twitter.com/angieidunno"> Angie Coleman </a> 
+
+# Newsletters
+
+POCinTech
+
 
 # Podcasts
+Cause a Scene
+
 Pod Save the People
 
 Design Matters
