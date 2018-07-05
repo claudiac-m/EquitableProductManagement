@@ -1,6 +1,13 @@
 # Equitable Product Management
 Curated resources for tech people to incorporate equitable practices throughout their process. 
 
+# Where do I start? 
+
+<a href="https://medium.com/@adblanche/can-i-pick-your-brain-about-d-i-ef996d9373a8"> Can I pick your brain about D&I? </a> - Aubrey Blanche
+
+<a href="https://medium.com/@betterallies"> Read articles here on how to become a better <strike>ally</strike> accomplice </a>
+
+
 # What does equity mean?
 
 # Why is this important?
@@ -10,6 +17,11 @@ Curated resources for tech people to incorporate equitable practices throughout 
 
 
 # How has technology been misused?
+
+<a href="https://medium.com/projectinclude/bias-manifest-1b8f62c04af8"> Bias Manifest </a> -  Y-vonne Hutchinson
+
+
+
 
 # What can I do?
 
@@ -23,8 +35,10 @@ Curated resources for tech people to incorporate equitable practices throughout 
 
 # Measuring Success
 
-# VCs doing good
+# VCs and Angel Investors doing good
 Backstage Capital 
+
+Pipeline Angels
 
 Kapors
 
@@ -35,6 +49,9 @@ Kapors
 
 <a href="http://www.perspective.cards/"> Perspective Cards </a> - Benjamin Earl Evans 
 
+# More Resources 
+
+<a href="https://medium.com/@cfiesler/tech-ethics-curricula-a-collection-of-syllabi-3eedfb76be18"> Tech Ethics Curricula: A Collection of Syllabi </a> - Casey Feisler
 
 
 # Books 
@@ -43,23 +60,41 @@ Algorithms of Oppression
 <a href="https://nyupress.org/books/9781479862962/"> Whose Global Village </a> - Ramesh Srinivasan 
 
 # People to Follow
-Kim Crayton 
+<a href="https://twitter.com/KimCrayton1K"> Kim Crayton </a> 
 
-Safiya Noble
+<a href="https://twitter.com/vcastillo630 "> Vivianne Castillo  </a>  
 
-Nasma Ahmed
-
-Vivianne Castillo 
+<a href="https://twitter.com/EricaJoy"> Erica Joy Baker  </a>  
 
 <a href="https://twitter.com/ArlanWasHere"> Arlan Hamilton </a> 
 
-<a href="https://twitter.com/benjamineevans/"> Benjamin Earl Evans </a> 
-
 <a href="https://twitter.com/angieidunno"> Angie Coleman </a> 
 
-# Newsletters
+<a href="https://twitter.com/CiaraTrinidad"> Ciara Trinidad </a>  
 
-POCinTech
+<a href="https://twitter.com/benjamineevans/"> Benjamin Earl Evans </a> 
+
+<a href="https://twitter.com/6Gems"> Kimberly Bryant </a>  
+
+<a href=" https://twitter.com/safiyanoble "> Safiya U Noble </a>  
+
+<a href="https://twitter.com/nasma_ahmed"> Nasma Ahmed </a>  
+
+<a href="https://twitter.com/nmsanchez"> Nicole Sanchez </a> 
+
+<a href="https://twitter.com/nakisnakis"> Natalie Oberti Noguera </a> 
+
+https://twitter.com/jenistyping Jennifer Kim
+
+https://twitter.com/bethanye 
+
+<a href="https://twitter.com/adblanche"> Aubrey Blanche </a>   
+
+<a href="https://twitter.com/mbrianaepler"> Melinda Briana Epler </a> 
+
+# Websites
+
+<a href="https://t.co/M9kfH5lRNq"> People of Color in Tech </a>  
 
 
 # Podcasts
@@ -78,3 +113,7 @@ Inside Intercom
 Revision Path
 
 Diseño Cha Cha Chá
+
+# Slack Channels 
+
+Techqueria https://techqueria.org/
