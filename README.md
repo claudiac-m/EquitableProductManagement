@@ -7,6 +7,7 @@ Curated resources for tech people to incorporate equitable practices throughout 
 # Why is this important?
 <a href="https://medium.com/black-perspectives-in-tech/are-we-missing-the-mark-on-diversity-and-inclusion-in-tech-e52a7ea09fd8"> Are We Missing the Mark on Diversity and Inclusion in Tech?: A Multi-Part Series Highlighting Black Experiences </a> - Angie Coleman 
 
+<a href="https://medium.com/humane-tech/12-things-everyone-should-understand-about-tech-d158f5a26411"> 12 Things Everyone Should Know About Tech </a> - Anil Dash
 
 
 
@@ -14,6 +15,9 @@ Curated resources for tech people to incorporate equitable practices throughout 
 
 <a href="https://medium.com/projectinclude/bias-manifest-1b8f62c04af8"> Bias Manifest </a> -  Y-vonne Hutchinson
 
+
+
+<a href="https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd"> PALANTIR HAS SECRETLY BEEN USING NEW ORLEANS TO TEST ITS PREDICTIVE POLICING TECHNOLOGY </a> - Ali Winston
 
 
 
