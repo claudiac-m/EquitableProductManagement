@@ -1,12 +1,6 @@
 # Equitable Product Management
 Curated resources for tech people to incorporate equitable practices throughout their process. 
 
-# Where do I start? 
-
-<a href="https://medium.com/@adblanche/can-i-pick-your-brain-about-d-i-ef996d9373a8"> Can I pick your brain about D&I? </a> - Aubrey Blanche
-
-<a href="https://medium.com/@betterallies"> Read articles here on how to become a better <strike>ally</strike> accomplice </a>
-
 
 # What does equity mean?
 
@@ -43,11 +37,22 @@ Pipeline Angels
 Kapors
 
 
+# Where do I start? 
+
+<a href="https://medium.com/@adblanche/can-i-pick-your-brain-about-d-i-ef996d9373a8"> Can I pick your brain about D&I? </a> - Aubrey Blanche
+
+<a href="https://medium.com/@betterallies"> Read articles here on how to become a better <strike>ally</strike> accomplice </a> - Better Allies
+
+<a href="https://medium.com/s/story/how-white-people-handle-diversity-training-in-the-workplace-e8408d2519f"> How white people Handle Diversity Training in the Workplace</a> - Robin DiAngelo 
+
+
 
 # Tools 
 <a href="https://www.artefactgroup.com/the-tarot-cards-of-tech/"> Tarot Cards of Tech </a> - Aretefact Group 
 
 <a href="http://www.perspective.cards/"> Perspective Cards </a> - Benjamin Earl Evans 
+
+
 
 # More Resources 
 
