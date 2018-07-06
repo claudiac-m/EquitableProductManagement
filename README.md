@@ -34,11 +34,14 @@ Curated resources for tech people to incorporate equitable practices throughout 
 # Measuring Success
 
 # VCs and Angel Investors doing good
-Backstage Capital 
 
-Pipeline Angels
+<a href="http://backstagecapital.com/"> Backstage Capital  </a> 
 
-Kapors
+<a href="http://pipelineangels.com/"> Pipeline Angels </a>  
+
+<a href="http://thebigpush.ca/"> The Big Push </a> 
+
+<a href="https://www.kaporcapital.com/"> Kapor Capital </a> 
 
 
 # Where do I start? 
@@ -64,7 +67,7 @@ Kapors
 
 
 # Books 
-Algorithms of Oppression
+<a href="https://nyupress.org/books/9781479837243/"> Algorithms of Oppression </a> - Safiya U Noble  
 
 <a href="https://nyupress.org/books/9781479862962/"> Whose Global Village </a> - Ramesh Srinivasan 
 
@@ -85,7 +88,7 @@ Algorithms of Oppression
 
 <a href="https://twitter.com/6Gems"> Kimberly Bryant </a>  
 
-<a href=" https://twitter.com/safiyanoble "> Safiya U Noble </a>  
+<a href=" https://twitter.com/safiyanoble"> Safiya U Noble </a>  
 
 <a href="https://twitter.com/nasma_ahmed"> Nasma Ahmed </a>  
 
@@ -93,9 +96,9 @@ Algorithms of Oppression
 
 <a href="https://twitter.com/nakisnakis"> Natalie Oberti Noguera </a> 
 
-https://twitter.com/jenistyping Jennifer Kim
+<a href="https://twitter.com/jenistyping"> Jennifer Kim </a> 
 
-https://twitter.com/bethanye 
+<a href="https://twitter.com/bethanye "> bethanye McKinney Blount </a> 
 
 <a href="https://twitter.com/adblanche"> Aubrey Blanche </a>   
 
