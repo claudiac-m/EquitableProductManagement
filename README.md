@@ -1,8 +1,17 @@
 # Equitable Product Management
-Curated resources for tech people to incorporate equitable practices throughout their process. 
+Curated resources for people to incorporate equitable practices throughout their work in tech. 
 
 
 # What does equity mean?
+
+<a href="https://medium.com/awaken-blog/what-youre-not-learning-in-your-diversity-inclusion-workshops-the-basics-a4324afe3ada
+"> What you’re not learning in your Diversity & Inclusion workshops: The Basics </a> - Michelle Kim
+
+
+
+<a href="https://generalassemb.ly/blog/diversity-inclusion-equity-differences-in-meaning/"> WHAT’S THE DIFFERENCE BETWEEN DIVERSITY, INCLUSION, AND EQUITY? </a> - Mel Bolger
+
+
 
 # Why is this important?
 <a href="https://medium.com/black-perspectives-in-tech/are-we-missing-the-mark-on-diversity-and-inclusion-in-tech-e52a7ea09fd8"> Are We Missing the Mark on Diversity and Inclusion in Tech?: A Multi-Part Series Highlighting Black Experiences </a> - Angie Coleman 
@@ -52,6 +61,7 @@ Curated resources for tech people to incorporate equitable practices throughout 
 
 <a href="https://medium.com/s/story/how-white-people-handle-diversity-training-in-the-workplace-e8408d2519f"> How white people Handle Diversity Training in the Workplace</a> - Robin DiAngelo 
 
+<a href="https://www.diversitybestpractices.com/sites/diversitybestpractices.com/files/import/embedded/anchors/files/diversity_primer_chapter_05.pdf"> Diversity & Inclusion Leadership </a> - Diversity Best Practices 
 
 
 # Tools 
@@ -110,7 +120,9 @@ Curated resources for tech people to incorporate equitable practices throughout 
 
 
 # Podcasts
-Cause a Scene
+
+<a href="https://hashtagcauseascene.com/category/podcasts/"> Cause a Scene </a>  
+
 
 Pod Save the People
 
@@ -128,4 +140,5 @@ Diseño Cha Cha Chá
 
 # Slack Channels 
 
-Techqueria https://techqueria.org/
+<a href="https://techqueria.org/"> Techqueria - Latinx in Tech </a> 
+
