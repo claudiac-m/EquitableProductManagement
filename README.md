@@ -98,7 +98,7 @@ Curated resources for people to incorporate equitable practices throughout their
 
 <a href="https://twitter.com/6Gems"> Kimberly Bryant </a>  
 
-<a href=" https://twitter.com/safiyanoble"> Safiya U Noble </a>  
+<a href="https://twitter.com/safiyanoble"> Safiya U Noble </a>  
 
 <a href="https://twitter.com/nasma_ahmed"> Nasma Ahmed </a>  
 
@@ -123,6 +123,7 @@ Curated resources for people to incorporate equitable practices throughout their
 
 <a href="https://hashtagcauseascene.com/category/podcasts/"> Cause a Scene </a>  
 
+<a href="http://www.techishpod.com/"> Techish  </a> 
 
 Pod Save the People
 
