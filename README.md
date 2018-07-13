@@ -143,3 +143,13 @@ Diseño Cha Cha Chá
 
 <a href="https://techqueria.org/"> Techqueria - Latinx in Tech </a> 
 
+# Newsletters
+
+<a href="https://theplugdaily.us13.list-manage.com/subscribe?u=83ea3f46016786337d7590478&id=00ee552148"> The Plug Daily by Sherrell Dorsey
+ </a> 
+ 
+ 
+<a href="https://www.fatml.org/"> Fairness, Accountability and Transparency in Machine Learning 
+ </a> 
+
+
