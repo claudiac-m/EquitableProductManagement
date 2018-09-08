@@ -18,7 +18,11 @@ Curated resources for people to incorporate equitable practices throughout their
 
 <a href="https://medium.com/humane-tech/12-things-everyone-should-understand-about-tech-d158f5a26411"> 12 Things Everyone Should Know About Tech </a> - Anil Dash
 
+[Digital Ethics in an Unethical Era: How to Not Ruin the World ‬(Sonia Gupta)](https://www.youtube.com/watch?v=wEVd1uSCbJw)
 
+[More than Code Report](https://morethancode.cc/)
+
+[Meet the Change Agents Who Are Enabling Inequality](https://www.nytimes.com/2018/08/20/books/review/winners-take-all-anand-giridharadas.html)
 
 # How has technology been misused?
 
@@ -81,6 +85,8 @@ Curated resources for people to incorporate equitable practices throughout their
 
 <a href="https://nyupress.org/books/9781479862962/"> Whose Global Village </a> - Ramesh Srinivasan 
 
+
+
 # People to Follow
 <a href="https://twitter.com/KimCrayton1K"> Kim Crayton </a> 
 
@@ -142,6 +148,15 @@ Diseño Cha Cha Chá
 # Slack Channels 
 
 <a href="https://techqueria.org/"> Techqueria - Latinx in Tech </a> 
+
+# Conferences 
+
+
+[Tech Intersections](https://techintersections.org/about/)
+
+
+[Allied Media Conference](https://www.alliedmedia.org/amc)
+
 
 # Newsletters
 
