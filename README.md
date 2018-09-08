@@ -131,19 +131,19 @@ Curated resources for people to incorporate equitable practices throughout their
 
 <a href="http://www.techishpod.com/"> Techish  </a> 
 
-Pod Save the People
+[Pod Save the People](https://art19.com/shows/pod-save-the-people)
 
-Design Matters
+[Revision Path](https://revisionpath.com/)
 
-Business of Design
+[Diseño Cha Cha Chá](https://www.disenochachacha.com/)
 
-This is Product Management
+[Design Matters](https://www.designmattersmedia.com/designmatters)
 
-Inside Intercom
+[Business of Design](https://soundcloud.com/designofbusiness-businessofdesign)
 
-Revision Path
+[This is Product Management](https://www.thisisproductmanagement.com/)
 
-Diseño Cha Cha Chá
+[Inside Intercom](https://art19.com/shows/inside-intercom)
 
 # Slack Channels 
 
