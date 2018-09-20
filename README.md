@@ -1,6 +1,9 @@
 # Equitable Product Management
 Curated resources for people to incorporate equitable practices throughout their work in tech. 
 
+# Where do I start?
+
+[Do the Work](https://github.com/claudiac-m/Doing-the-Work-101)
 
 # What does equity mean?
 
