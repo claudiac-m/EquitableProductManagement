@@ -45,7 +45,13 @@ Curated resources for people to incorporate equitable practices throughout their
 
 <a href="https://uxplanet.org/an-overdue-conversation-the-ux-research-industrys-achilles-heel-3524b1c6f908"> An Overdue Conversation: The UX Research Industry’s Achilles Heel </a> - Vivianne Castillo 
 
+# Design as a form of oppression 
 
+[Racism and inequity are products of design. They can be redesigned.](https://medium.com/equity-design/racism-and-inequity-are-products-of-design-they-can-be-redesigned-12188363cc6a)
+
+[Understanding the role of Power in Design](https://medium.com/greater-good-studio/design-educations-big-gap-understanding-the-role-of-power-1ee1756b7f08)
+
+[Decolonizing Design Reader by Ramon Tejada](https://medium.com/greater-good-studio/design-educations-big-gap-understanding-the-role-of-power-1ee1756b7f08)
 
 # Measuring Success
 
