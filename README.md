@@ -53,6 +53,18 @@ Curated resources for people to incorporate equitable practices throughout their
 
 [Decolonizing Design Reader by Ramon Tejada](https://medium.com/greater-good-studio/design-educations-big-gap-understanding-the-role-of-power-1ee1756b7f08)
 
+# AI 
+
+[Center for Demoncracy & Technology Algorithm Tool](https://cdt.info/ddtool/)
+
+[Ethical Tech Directory](https://docs.google.com/document/d/1SN6hYeKe3eRK6x9D0Sr7GpCA4nirpyo3u68xG1A6NDs/edit)
+
+[Association for Computing Machinery's Code of Ethics](https://ethics.acm.org/)
+
+[100 Women in AI Ethics](https://becominghuman.ai/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232)
+
+
+
 # Measuring Success
 
 # VCs and Angel Investors doing good
@@ -88,13 +100,19 @@ Curated resources for people to incorporate equitable practices throughout their
 
 <a href="https://medium.com/@cfiesler/tech-ethics-curricula-a-collection-of-syllabi-3eedfb76be18"> Tech Ethics Curricula: A Collection of Syllabi </a> - Casey Feisler
 
+[Copenhagen Catolog of Posters on Tech Principles](https://www.copenhagencatalog.org/)
+
+[Philosophy of Technology](https://plato.stanford.edu/entries/technology/)
+
+[IIEEE Tech Ethics](https://techethics.ieee.org/content)
+
 
 # Books 
 <a href="https://nyupress.org/books/9781479837243/"> Algorithms of Oppression </a> - Safiya U Noble  
 
 <a href="https://nyupress.org/books/9781479862962/"> Whose Global Village </a> - Ramesh Srinivasan 
 
-
+[5 Books recommended by Evgeny Morozov](https://fivebooks.com/best-books/evgeny-morozov-philosophy-technology/)
 
 # People to Follow
 <a href="https://twitter.com/KimCrayton1K"> Kim Crayton </a> 
@@ -128,6 +146,8 @@ Curated resources for people to incorporate equitable practices throughout their
 <a href="https://twitter.com/adblanche"> Aubrey Blanche </a>   
 
 <a href="https://twitter.com/mbrianaepler"> Melinda Briana Epler </a> 
+
+[David Ryan Polgar](https://www.davidpolgar.com/about)
 
 # Websites
 
