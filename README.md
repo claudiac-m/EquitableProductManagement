@@ -10,11 +10,11 @@ Curated resources for people to incorporate equitable practices throughout their
 <a href="https://medium.com/awaken-blog/what-youre-not-learning-in-your-diversity-inclusion-workshops-the-basics-a4324afe3ada
 "> What you’re not learning in your Diversity & Inclusion workshops: The Basics </a> - Michelle Kim
 
-
-
 <a href="https://generalassemb.ly/blog/diversity-inclusion-equity-differences-in-meaning/"> WHAT’S THE DIFFERENCE BETWEEN DIVERSITY, INCLUSION, AND EQUITY? </a> - Mel Bolger
 
+[Centre for Social Justice](http://www.socialjustice.org/index.php?page=key-issues)
 
+[OCAP - 
 
 # Why is this important?
 <a href="https://medium.com/black-perspectives-in-tech/are-we-missing-the-mark-on-diversity-and-inclusion-in-tech-e52a7ea09fd8"> Are We Missing the Mark on Diversity and Inclusion in Tech?: A Multi-Part Series Highlighting Black Experiences </a> - Angie Coleman 
