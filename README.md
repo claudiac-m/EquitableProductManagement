@@ -14,7 +14,7 @@ Curated resources for people to incorporate equitable practices throughout their
 
 [Centre for Social Justice](http://www.socialjustice.org/index.php?page=key-issues)
 
-[OCAP - 
+
 
 # Why is this important?
 <a href="https://medium.com/black-perspectives-in-tech/are-we-missing-the-mark-on-diversity-and-inclusion-in-tech-e52a7ea09fd8"> Are We Missing the Mark on Diversity and Inclusion in Tech?: A Multi-Part Series Highlighting Black Experiences </a> - Angie Coleman 
@@ -63,7 +63,7 @@ Curated resources for people to incorporate equitable practices throughout their
 
 [100 Women in AI Ethics](https://becominghuman.ai/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232)
 
-
+[Ethical AI Declaration by University of Montreal](https://www.declarationmontreal-iaresponsable.com/la-declaration) In French
 
 # Measuring Success
 
