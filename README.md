@@ -5,6 +5,8 @@ Curated resources for people to incorporate equitable practices throughout their
 
 [Do the Work](https://github.com/claudiac-m/Doing-the-Work-101)
 
+[Tech Ethics Curricula](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0)
+
 # What does equity mean?
 
 <a href="https://medium.com/awaken-blog/what-youre-not-learning-in-your-diversity-inclusion-workshops-the-basics-a4324afe3ada
