@@ -98,6 +98,8 @@ Curated resources for people to incorporate equitable practices throughout their
 
 [Calm Tech](https://calmtech.com/)
 
+[Consentful Tech](http://www.consentfultech.io)
+
 # More Resources 
 
 <a href="https://medium.com/@cfiesler/tech-ethics-curricula-a-collection-of-syllabi-3eedfb76be18"> Tech Ethics Curricula: A Collection of Syllabi </a> - Casey Feisler
