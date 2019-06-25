@@ -49,6 +49,8 @@ Curated resources for people to incorporate equitable practices throughout their
 
 # Design as a form of oppression 
 
+[What does it mean to Decolonize Design?](https://eyeondesign.aiga.org/what-does-it-mean-to-decolonize-design/)
+
 [Racism and inequity are products of design. They can be redesigned.](https://medium.com/equity-design/racism-and-inequity-are-products-of-design-they-can-be-redesigned-12188363cc6a)
 
 [Understanding the role of Power in Design](https://medium.com/greater-good-studio/design-educations-big-gap-understanding-the-role-of-power-1ee1756b7f08)
