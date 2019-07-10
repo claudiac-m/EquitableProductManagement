@@ -59,6 +59,8 @@ Curated resources for people to incorporate equitable practices throughout their
 
 # AI 
 
+[Survival of the Best Fit](https://www.survivalofthebestfit.com/resources)
+
 [Center for Demoncracy & Technology Algorithm Tool](https://cdt.info/ddtool/)
 
 [Ethical Tech Directory](https://docs.google.com/document/d/1SN6hYeKe3eRK6x9D0Sr7GpCA4nirpyo3u68xG1A6NDs/edit)
